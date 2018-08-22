@@ -1,1 +1,6 @@
-hello this is some sample text. REEE
+<<<<<<< HEAD
+hello this is bottom text. I have added more text from a branch. REEE source trEEEE
+
+=======
+HEY this is some sample text.I added stuff from another branch REEE
+>>>>>>> changetext
